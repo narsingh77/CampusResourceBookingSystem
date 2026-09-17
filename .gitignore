@@ -1,0 +1,13 @@
+# Compiled class files
+bin/
+*.class
+
+# Runtime generated data
+data/
+*.dat
+*.csv
+
+# IDE metadata
+.idea/
+*.iml
+.vscode/
