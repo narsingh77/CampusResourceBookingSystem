@@ -11,3 +11,5 @@ data/
 .idea/
 *.iml
 .vscode/
+
+push_to_github.bat

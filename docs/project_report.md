@@ -9,7 +9,7 @@
 **Course Code:** CSE1007 / JAVA201  
 **Project Category:** Flipped Course Evaluation (Build Your Own Project)  
 **Submission Date:** September 2026  
-**Institution:** Vellore Institute of Technology (VIT) / VITyarthi  
+**Institution:** VIT Bhopal University / VITyarthi  
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 1. Cover Page
 * **Project Name:** CampusResourceHub (Campus Facility & Resource Booking System)
-* **Author / Candidate:** Student Submission
+* **Author / Candidate:** Narsingh Vishwakarma (Reg. No: 24BEC10119, VIT Bhopal)
 * **Subject:** Programming in Java
 * **Target Audience:** University Administration, Departmental Faculty, Student Club Coordinators
 * **Repository:** GitHub Ready Repository with `README.md`, `statement.md`, `src/`, `test/`, and `docs/`
